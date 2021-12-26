@@ -1,0 +1,20 @@
+.oragami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.header{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    background-color: rgb(53, 52, 53);
+}
+
+body{
+    background-color: rgb(163, 165, 165);
+}
+
+.A{
+    background-color: white;
+}
